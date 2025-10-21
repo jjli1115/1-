@@ -3,3 +3,5 @@ import REACT <"react">
 adding <for test>
 
 refactoring 
+
+still stuck on npm run dev because tailwindcss is not installed correctly
