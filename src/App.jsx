@@ -8,6 +8,7 @@ export default function App() {
     </div>
     <div className="text-1xl, font-semibold text-black-300 text-center mt-5">
       Another division.
+      <p>Paragraph testing for second division.</p>
     </div>
     </>
   );
