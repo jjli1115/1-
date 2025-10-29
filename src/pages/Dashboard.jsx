@@ -1,9 +1,9 @@
 import { Brain, Moon, DollarSign, Activity, Award } from 'lucide-react';
 import { format, subDays } from "date-fns";
-/* import StatsCard from "../components/dashboard/StatsCard"
-import ProgressRing from "../components/dashboard/ProgressRing"
+import StatsCard from "../components/dashboard/StatsCard"
+/* import ProgressRing from "../components/dashboard/ProgressRing" */
 import AchievementBadge from "../components/dashboard/AchievementBadge"
-import TrendChart from "../components/shared/TrendChart" */
+/* import TrendChart from "../components/shared/TrendChart" */
 
 export default function Dashboard() {
 
@@ -15,7 +15,7 @@ export default function Dashboard() {
             name: "Memory Recall",
             category: "memory",
             current_value: 85,
-            baseline_value: 70,
+            baseline_value: 1,
             target_value: 99,
             unit: "%"
         },
@@ -32,10 +32,10 @@ export default function Dashboard() {
             id: 3,
             name: "Net Worth",
             category: "finance",
-            current_value: 5420,
-            baseline_value: 5000,
-            target_value: 100000000,
-            unit: "%"
+            current_value: 35420,
+            baseline_value: 10000,
+            target_value: 100000,
+            unit: "$"
         },
         {
             id: 4,
@@ -131,7 +131,7 @@ export default function Dashboard() {
                 </div>
 
                 {/* Stats Grid */}
-               {/*  <div className="space-y-3">
+                <div className="space-y-3">
                     {getMetricsByCategory('memory').slice(0,1).map(metric => (
                         <StatsCard
                             key={metric.id}
@@ -183,7 +183,7 @@ export default function Dashboard() {
                             progress={calculateProgress(metric)}
                             />
                     ))}
-                </div> */}
+                </div>
 
                 {/* Trend Chart */}
                {/*  {mockMetrics.length > 0 && (
@@ -200,7 +200,7 @@ export default function Dashboard() {
                         <Award className="w-5 h-5 text-amber-600" />
                         <h2 className="text-lg font-bold text-gray-900">Achievements</h2>
                     </div>
-                    {/* <div className="grid grid-cols-3 gap-3">
+                    {<div className="grid grid-cols-3 gap-3">
                         {mockAchievements.slice(0, 6).map((achievement, index) => (
                             <AchievementBadge
                             key={achievement.id}
@@ -208,12 +208,9 @@ export default function Dashboard() {
                             index={index}
                             />
                         ))} 
-                    </div> */}
+                    </div>}
                 </div>
             </div>
         </div>
     )
 }
-
-/* Leave out the nonsense. */
-/* Comments */
