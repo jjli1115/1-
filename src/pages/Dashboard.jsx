@@ -1,7 +1,7 @@
 import { Brain, Moon, DollarSign, Activity, Award } from 'lucide-react';
 import { format, subDays } from "date-fns";
 import StatsCard from "../components/dashboard/StatsCard"
-/* import ProgressRing from "../components/dashboard/ProgressRing" */
+import ProgressRing from "../components/dashboard/ProgressRing"
 import AchievementBadge from "../components/dashboard/AchievementBadge"
 /* import TrendChart from "../components/shared/TrendChart" */
 
@@ -105,7 +105,7 @@ export default function Dashboard() {
 
                 {/* Progress Ring Card */}
                 <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
-                    {/* <div className="flex justify-center mb-4">
+                    <div className="flex justify-center mb-4">
                         <ProgressRing
                             progress={Math.min((mockEntries.length / 100) * 100, 100)}
                             size={140}
@@ -113,7 +113,7 @@ export default function Dashboard() {
                             value={`${mockEntries.length}`}
                             label="entries"
                         />
-                    </div> */}
+                    </div>
                     <div className="grid grid-cols-3 gap-3">
                         <div className="text-center">
                             <p className="text-2xl font-bold text-gray-900">{currentLevel}</p>
