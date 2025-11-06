@@ -3,7 +3,7 @@ import { format, subDays } from "date-fns";
 import StatsCard from "../components/dashboard/StatsCard"
 import ProgressRing from "../components/dashboard/ProgressRing"
 import AchievementBadge from "../components/dashboard/AchievementBadge"
-/* import TrendChart from "../components/shared/TrendChart" */
+import TrendChart from "../components/shared/TrendChart"
 
 export default function Dashboard() {
 
@@ -186,13 +186,13 @@ export default function Dashboard() {
                 </div>
 
                 {/* Trend Chart */}
-               {/*  {mockMetrics.length > 0 && (
+                {mockMetrics.length > 0 && (
                     <TrendChart
                     data={getRecentEntries(mockMetrics[0].id)}
                     title="7-Day Progress Trend"
                     color="#a855fd7"
                     />
-                )} */}
+                )}
 
                 {/* Achievements Section */}
                 <div className="space-y-3">
