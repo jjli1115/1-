@@ -218,3 +218,4 @@ export default function Dashboard() {
 
 // Need to work on moving the app into TestFlight tomorrow (11.07.2025)
 // As of 11.07.2025 10:37p, I failed to move the app into TestFlight, next planned date to move it will be 11.09.2025
+// As of 11.08.2025 it seems like the process to move this onto iOS app could take 1-2 months, we will begin and see how long it takes and use this as a record
