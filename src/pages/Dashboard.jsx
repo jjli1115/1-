@@ -220,3 +220,4 @@ export default function Dashboard() {
 // As of 11.07.2025 10:37p, I failed to move the app into TestFlight, next planned date to move it will be 11.09.2025
 // As of 11.08.2025 it seems like the process to move this onto iOS app could take 1-2 months, we will begin and see how long it takes and use this as a record
 // As of 11.09.2025 it seems like I need to start porting the app from React to Swift UI to get it onto TestFlight
+// 11.10.2025 - Today felt like a weekend, woke up early 7:06a but didn't want to jinx the day so went back to bed until 10:30a, got a krispy kreme donut and bunt cake (saw MacGregor)
