@@ -222,3 +222,8 @@ export default function Dashboard() {
 // As of 11.09.2025 it seems like I need to start porting the app from React to Swift UI to get it onto TestFlight
 // 11.10.2025 - Today felt like a weekend, woke up early 7:06a but didn't want to jinx the day so went back to bed until 10:30a, got a krispy kreme donut and bunt cake (saw MacGregor)
 // 11.11.2025 - Did a decent amount of work, ~4 hrs, for Boosted.AI but need to start on XCode tomorrow on Mac
+
+// Below is imported from index.html from my personal website
+//11.05.2025 Todo list: Import Bio Markers into 1%
+//11.14.2025 My rate of learning and development in coding is so slow
+//11.15.2025 Today is my birthday, and also the first day of the Bay Area Founders Club AI Summit, I think it's an ok conference
