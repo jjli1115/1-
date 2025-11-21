@@ -227,3 +227,4 @@ export default function Dashboard() {
 //11.05.2025 Todo list: Import Bio Markers into 1%
 //11.14.2025 My rate of learning and development in coding is so slow
 //11.15.2025 Today is my birthday, and also the first day of the Bay Area Founders Club AI Summit, I think it's an ok conference
+//11.20.2025 Today I am visiting HBS, it's an interesting place. I need to get a job where it's helpful for me to come here
