@@ -229,3 +229,4 @@ export default function Dashboard() {
 //11.15.2025 Today is my birthday, and also the first day of the Bay Area Founders Club AI Summit, I think it's an ok conference
 //11.20.2025 Today I am visiting HBS, it's an interesting place. I need to get a job where it's helpful for me to come here
 //11.21.2025 Still at HBS today, with Section X India
+//11.22.2025 Went to Harvard v Yale today, Harvard lost 28 to 45, and saw Angela's Freestyle dance show after
