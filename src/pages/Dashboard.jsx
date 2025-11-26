@@ -232,3 +232,4 @@ export default function Dashboard() {
 //11.22.2025 Went to Harvard v Yale today, Harvard lost 28 to 45, and saw Angela's Freestyle dance show after
 //11.23.2025 Flew back to the Bay from Boston today
 //11.24.2025 Friendsgiving at Dave's new house today
+//11.25.2025 Return to coding tomorrow to continue building 1% iOS App and the Find Anything iOS App
