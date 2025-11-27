@@ -233,3 +233,4 @@ export default function Dashboard() {
 //11.23.2025 Flew back to the Bay from Boston today
 //11.24.2025 Friendsgiving at Dave's new house today
 //11.25.2025 Return to coding tomorrow to continue building 1% iOS App and the Find Anything iOS App
+//11.26.2025 Things to track for personal benchmarking: Finances (Credit Score & Net Worth), Health (Sleep, Strength, Endurance, Weight, Biomarkers from Blood Tests, Gut Test, Skin)
