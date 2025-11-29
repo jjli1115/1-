@@ -235,3 +235,4 @@ export default function Dashboard() {
 //11.25.2025 Return to coding tomorrow to continue building 1% iOS App and the Find Anything iOS App
 //11.26.2025 Things to track for personal benchmarking: Finances (Credit Score & Net Worth), Health (Sleep, Strength, Endurance, Weight, Biomarkers from Blood Tests, Gut Test, Skin)
 //11.27.2025 Today was mom's birthday and Thanksgiving - I want to find out how to find the joy in coding and how to find ways to enjoy coding and code for hours at a time
+//11.28.2025 Had dinner with Angela & Dad today, want to learn more about all the fields of AI (e.g. CoT, RNN, RLHF, etc) and review code base for The Mirror Ring
