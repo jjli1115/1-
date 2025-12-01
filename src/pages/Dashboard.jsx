@@ -237,3 +237,4 @@ export default function Dashboard() {
 //11.27.2025 Today was mom's birthday and Thanksgiving - I want to find out how to find the joy in coding and how to find ways to enjoy coding and code for hours at a time
 //11.28.2025 Had dinner with Angela & Dad today, want to learn more about all the fields of AI (e.g. CoT, RNN, RLHF, etc) and review code base for The Mirror Ring
 //11.29.2025 Went shopping for Mom's birthday today and had dinner at VF, goal for tomorrow: wake up at 8a, read Meta casestudy, complete the four different tabs for 1%
+//11.30.2025 Last day of November this year, time goes fast; today I woke up at 9a, read the Meta casestudy, but did not complete the four tabs for 1%; tomorrow I will complete the four tabs for 1%
