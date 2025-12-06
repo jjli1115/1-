@@ -241,3 +241,4 @@ export default function Dashboard() {
 //12.01.2025 Still didn't complete the four tabs today. Do I give up or do I push through?
 //12.02.2025 
 //12.04.2025 Forgot to push yesterday; I want to write for Contrary and code after work
+//12.05.2025 Reached out about Contrary, need to reach out to Kyle Harrison @ Contrary, and still need to create the tabs for the app; how to find the joy in coding? 
