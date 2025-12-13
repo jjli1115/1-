@@ -246,3 +246,4 @@ export default function Dashboard() {
 //12.08.2025 Another day...
 //12.09.2025 How to deal with tasks and relationships in a high quality, low stress, and fast way?
 //12.10.2025 Flip a coin?
+//12.12.2025 Need to sign up for Stanford classes and add two more tabs tomorrow
