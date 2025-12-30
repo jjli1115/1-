@@ -263,3 +263,4 @@ export default function Dashboard() {
 //12.26.2025 As of today I owe 50 company analyses and 10 days of coding
 //12.27.2025 As of today I owe 28 (50-27+5) company analyses
 //12.28.2025 As of today I owe 19 (28-14+5) company analyses
+//12.29.2025 
