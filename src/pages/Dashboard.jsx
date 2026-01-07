@@ -271,3 +271,4 @@ export default function Dashboard() {
 //01.03.2026 It is the 3rd already, wow, working on GSB app, will finish writing both essays
 //01.04.2026 Finish GSB app
 //01.05.2026 Angela's birthday, GSB app in progress still, the WMM most essay is very difficult to write well
+//01.06.2026 Super busy day, 5:25a-11:00p, went to HBS breakfast, listed to GSB MSx presentation, finalized accounting for November, cancelled plastic surgery appointment, started Henkel slides, but did not complete the most important task which are the GSB essays
