@@ -280,3 +280,4 @@ export default function Dashboard() {
 //01.12.2026 Worked on Henkel presentation and got Opzelura prescription finalized (applied and received $0 copay and should arrive on Friday, January 16th)
 //01.13.2026 Flying to LA to meet with Henkel
 //01.14.2026 Presented to Henkel today
+//01.15.2026 Flew back to the Bay today
