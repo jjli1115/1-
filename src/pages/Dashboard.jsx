@@ -281,3 +281,4 @@ export default function Dashboard() {
 //01.13.2026 Flying to LA to meet with Henkel
 //01.14.2026 Presented to Henkel today
 //01.15.2026 Flew back to the Bay today
+//01.16.2026 Saw Eric Schmidt, had dinner with Jerry, and met with Sean today
