@@ -282,3 +282,4 @@ export default function Dashboard() {
 //01.14.2026 Presented to Henkel today
 //01.15.2026 Flew back to the Bay today
 //01.16.2026 Saw Eric Schmidt, had dinner with Jerry, and met with Sean today
+//01.17.2026 Grandpa Merkle passed away today; dropped Angela off at the airport for her final undergraduate semester
