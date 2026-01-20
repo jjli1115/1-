@@ -285,3 +285,4 @@ export default function Dashboard() {
 //01.17.2026 Grandpa Merkle passed away today; dropped Angela off at the airport for her final undergraduate semester
 //01.18.2026 Shot balls at the range with Sophia, finalized work trial with Jerry, and took redeye to Palm Beach
 //01.19.2026 Arrived at Roger's 2026 Founders Summit today, and met with !Athena but Samantha
+//01.20.2026 Day two of Roger's conference, learned that I will need to fly to Arizona to help Matt after the conference
