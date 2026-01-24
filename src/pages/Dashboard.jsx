@@ -288,3 +288,4 @@ export default function Dashboard() {
 //01.20.2026 Day two of Roger's conference, learned that I will need to fly to Arizona to help Matt after the conference
 //01.21.2026 Day three of Roger's conference, called Maverick and Rob, and had dinner with Kush
 //01.22.2026 Crashed at Ross' apartment in Brickell last night and flew to Arizona to help mom and Matt today
+//01.23.2026 Second day in Phoenix, it's heartwrenchingly joyous to know that grandpa Merkle lived an incredible life right to the very end and that he was loved by so many
