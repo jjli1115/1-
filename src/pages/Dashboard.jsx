@@ -290,3 +290,4 @@ export default function Dashboard() {
 //01.22.2026 Crashed at Ross' apartment in Brickell last night and flew to Arizona to help mom and Matt today
 //01.23.2026 Second day in Phoenix, it's heartwrenchingly joyous to know that grandpa Merkle lived an incredible life right to the very end and that he was loved by so many
 //01.24.2026 Third day in Phoenix, got the UHaul today and packed some of the boxes into the truck, got dinner with John and Diane (very nice people) at Texas Roadhouse, the Prime Rib and Sweet Potato (with Cinnamon and Brown Sugar) was amazing
+//01.25.2026 Introduced Sean and Noah yesterday, flew back to the Bay today
