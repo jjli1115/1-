@@ -292,3 +292,4 @@ export default function Dashboard() {
 //01.24.2026 Third day in Phoenix, got the UHaul today and packed some of the boxes into the truck, got dinner with John and Diane (very nice people) at Texas Roadhouse, the Prime Rib and Sweet Potato (with Cinnamon and Brown Sugar) was amazing
 //01.25.2026 Introduced Sean and Noah yesterday, flew back to the Bay today
 //01.26.2026 Starting working wirh Halluminate today and went to the Quantum Computing Panel at the British Consulate where I saw Jen from Cambridge again
+//01.27.2026 Second day at Halluminate, started outreach today to SMEs and strategy docs, got my prescriptions refilled today and completed HBS financial aid calculator
