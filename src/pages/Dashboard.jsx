@@ -293,3 +293,4 @@ export default function Dashboard() {
 //01.25.2026 Introduced Sean and Noah yesterday, flew back to the Bay today
 //01.26.2026 Starting working wirh Halluminate today and went to the Quantum Computing Panel at the British Consulate where I saw Jen from Cambridge again
 //01.27.2026 Second day at Halluminate, started outreach today to SMEs and strategy docs, got my prescriptions refilled today and completed HBS financial aid calculator
+//01.28.2026 Third day at Halluminate: received 13 models from Arielle and helped rank 18 models from Tom; did my blood draw in the morning, helped Matt move and list the extra table, picked up my prescriptions, and had dinner wirh Ariana
