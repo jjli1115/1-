@@ -295,3 +295,4 @@ export default function Dashboard() {
 //01.27.2026 Second day at Halluminate, started outreach today to SMEs and strategy docs, got my prescriptions refilled today and completed HBS financial aid calculator
 //01.28.2026 Third day at Halluminate: received 13 models from Arielle and helped rank 18 models from Tom; did my blood draw in the morning, helped Matt move and list the extra table, picked up my prescriptions, and had dinner wirh Ariana
 //01.29.2026 Fourth day at Halluminate: called Ryan Diebner for data rooms, learned more about Rob's siblings, and started a short Horizon problem; saw Dean Walsh in the Bay and called David Yun
+//01.30.2026 Fifth day at Halluminate, completed first week and did three short Horizon problems today; met Iris Duong for hot chocolate after
