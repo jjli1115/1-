@@ -291,8 +291,9 @@ export default function Dashboard() {
 //01.23.2026 Second day in Phoenix, it's heartwrenchingly joyous to know that grandpa Merkle lived an incredible life right to the very end and that he was loved by so many
 //01.24.2026 Third day in Phoenix, got the UHaul today and packed some of the boxes into the truck, got dinner with John and Diane (very nice people) at Texas Roadhouse, the Prime Rib and Sweet Potato (with Cinnamon and Brown Sugar) was amazing
 //01.25.2026 Introduced Sean and Noah yesterday, flew back to the Bay today
-//01.26.2026 Starting working wirh Halluminate today and went to the Quantum Computing Panel at the British Consulate where I saw Jen from Cambridge again
+//01.26.2026 Starting working with Halluminate today and went to the Quantum Computing Panel at the British Consulate where I saw Jen from Cambridge again
 //01.27.2026 Second day at Halluminate, started outreach today to SMEs and strategy docs, got my prescriptions refilled today and completed HBS financial aid calculator
-//01.28.2026 Third day at Halluminate: received 13 models from Arielle and helped rank 18 models from Tom; did my blood draw in the morning, helped Matt move and list the extra table, picked up my prescriptions, and had dinner wirh Ariana
+//01.28.2026 Third day at Halluminate: received 13 models from Arielle and helped rank 18 models from Tom; did my blood draw in the morning, helped Matt move and list the extra table, picked up my prescriptions, and had dinner with Ariana
 //01.29.2026 Fourth day at Halluminate: called Ryan Diebner for data rooms, learned more about Rob's siblings, and started a short Horizon problem; saw Dean Walsh in the Bay and called David Yun
 //01.30.2026 Fifth day at Halluminate, completed first week and did three short Horizon problems today; met Iris Duong for hot chocolate after
+//01.31.2026 Last day of January 2026, wow that went by fast, spent a lot of money this month (~4,000) but went to LA, Palm Beach, and Arizona, and started with Halluminate and got my HBS financial aid - next month I need to finish GSB and my ADHD check
