@@ -297,3 +297,4 @@ export default function Dashboard() {
 //01.29.2026 Fourth day at Halluminate: called Ryan Diebner for data rooms, learned more about Rob's siblings, and started a short Horizon problem; saw Dean Walsh in the Bay and called David Yun
 //01.30.2026 Fifth day at Halluminate, completed first week and did three short Horizon problems today; met Iris Duong for hot chocolate after
 //01.31.2026 Last day of January 2026, wow that went by fast, spent a lot of money this month (~4,000) but went to LA, Palm Beach, and Arizona, and started with Halluminate and got my HBS financial aid - next month I need to finish GSB and my ADHD check
+//02.01.2026 First day of February: got breakfast @ Country Inn with Matt, called grandma but she was mostly sleeping, sold the 48 inch LG OLED TV, coordinated golf cart sale interaction between John and Joel, set Matt up on Facebook Marketplace, went grocery shopping with mom, ate dinner @ Haidilao with mom
