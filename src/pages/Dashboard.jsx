@@ -302,3 +302,4 @@ export default function Dashboard() {
 //02.03.2026 Back to programming today: joined HBS Apartment and Residence Hall Zoom webinars, hung paintings with Matt, called the credit bureaus, and read HBS' Sequoia case study; realized that at home I am being asked to do so many small things mostly by Matt and sometimes by mom that I have no time to do what I need to do for myself, I must leave the house to do that
 //02.04.2026 Hung a few paintings today with Matt, reviewed personal accounting and paid off Chase Reserve
 //02.05.2026 Went by Davenport beach today and wrote first draft of WMM
+//02.06.2026 Spoke with Philip, founder of Absurd AI, today, did 2.5 hours of work for Boosted.AI, and learned about retroactive forbearance and disputing delinquencies
