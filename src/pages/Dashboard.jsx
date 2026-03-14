@@ -338,3 +338,4 @@ export default function Dashboard() {
 //03.11.2026 Mom's day off, she will work for the next 17 days straight, we had breakfast in the back porch, I felt a sensation of appreciation for the day for the first time in a long time, we went to the gym after breakfast and had Poke Bowl for lunch, then I took a first pass at Harvard's financial aid application, and had dinner
 //03.12.2026 Got through some emails today, went to a session with mom held by Dan Chang (Ameriprise Wealth Manager) and learned about Direct Indexing and Tax Harvesting, tried to fix the WiFi's lag spikes in the evening
 //03.13.2026 Really lazy and unproductive day, could not get out of bed, discovered Pocket AI, texted Kunal, had dinner with mom at SGD Tofu House
+//03.14.2026 Drafted email to Paul today, cleaned up GSB essays and wrote the short answers, and went to Sophia's birthday party
