@@ -358,3 +358,4 @@ export default function Dashboard() {
 //03.31.2026 Called Bruce today and emailed Rhonda Kitch to follow up on the situation, received the stool test in the mail, went to the gym and got through my emails, had dinner with mom at home
 //04.01.2026 First day of April, April Fools, didn't do too much today, send mom her living expenses for April and took out the trash and had dinner with mom at home
 //04.02.2026 Second day of April, need to email Paul tomorrow to let him know I will apply Round 3 in the fall
+//04.03.2026 Had follow up appoint for ADHD today (the next appointment will be in May), checked and suprisingly received EpiPen Payout for Civil Case No. 2:17-md-02785-DDC-TJJ, responded to Aman Garg (founder of Grade Wiz), and tried to call David but he didn't pick up, had a long dinner and chat/debate with mom (started dinner at 9:45p and ended at 11:45p)
