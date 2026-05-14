@@ -397,3 +397,4 @@ export default function Dashboard() {
 //05.10.2026 Called grandma and auntie today for Mother's Day
 //05.11.2026 Got the Jeep realigned today, submitted Project Naturalness quiz, and scheduled email to Jeff
 //05.12.2026 Flew to Boston today, staying at Harvard, moving furniture and going to Wellesley tomorrow
+//05.13.2026 Put all the furniture into storage today ($440 for a four hour move), had lunch at Spangler with mom and Matt, then went to check into Courtyard at Boston Natick, then went to help Angela pack at her dorm in Wellesley, ended the night with dinner at Oleana
