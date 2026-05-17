@@ -400,3 +400,4 @@ export default function Dashboard() {
 //05.13.2026 Put all the furniture into storage today ($440 for a four hour move), had lunch at Spangler with mom and Matt, then went to check into Courtyard at Boston Natick, then went to help Angela pack at her dorm in Wellesley, ended the night with dinner at Oleana
 //05.14.2026 Went to Angela's STEM Department celebration this morning where we sat next to her Korean classmate who will be doing wet lab research at Stanford and met Li and her parents, then went to Angela's Sigma Xi initiation, followed by Mercor work at Blank Street coffee, then a haircut at SKA Beauty Design salon, before going back to Wellesley where we cancelled dinner with dad because Angela fell sick, ended the night with Sean's interview on X and dinner with Matt
 //05.15.2026 Saw Angela graduate (woohoo)!
+//05.16.2026 Flew back home today
