@@ -410,3 +410,4 @@ export default function Dashboard() {
 //05.23.2026 Slept 10 hours last night (was in bed for 11 hours), woke up and got through my emails, then before I knew it it was time to go to dinner, had a great dinner with dad at Be.Steak.A ($500 for the three of us), stopped by Safeway on the way home and got back at 11p to start packing for Cabo tomorrow
 //05.24.2026 Slept two hours last night and flew to Cabo today
 //05.25.2026 Met with Encantada sales today (Matt and Kristof) and learned about the resale equity program, then switched a room from the Vista to Hacienda side, followed by lunch at Il Forno and did some chatting back in the new room, ended the day with dinner at Barolo
+//05.26.2026 Had lunch at Marea today and lounged at Santa Maria beach, then went to Anima Village after (where I got an original hat), followed by grocery shopping at Fresko's after and mom made dinner back at the casita
