@@ -411,3 +411,4 @@ export default function Dashboard() {
 //05.24.2026 Slept two hours last night and flew to Cabo today
 //05.25.2026 Met with Encantada sales today (Matt and Kristof) and learned about the resale equity program, then switched a room from the Vista to Hacienda side, followed by lunch at Il Forno and did some chatting back in the new room, ended the day with dinner at Barolo
 //05.26.2026 Had lunch at Marea today and lounged at Santa Maria beach, then went to Anima Village after (where I got an original hat), followed by grocery shopping at Fresko's after and mom made dinner back at the casita
+//05.27.2026 Worked for three hours today but only finished one of five tasks I had planned, caught up with David Cohen (learned his dad is a lifetime banker, unsure at which bank), then had dinner at El Huerto (my favorite restaurant in Cabo so far), ended the night with a dip in the balcony hot tub, starting work to finish my other tasks which will likely end at 3a
