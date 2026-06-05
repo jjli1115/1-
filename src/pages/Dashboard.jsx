@@ -419,3 +419,4 @@ export default function Dashboard() {
 //06.01.2026 Can't believe it's June already, God made miracles happen today, submitted HBS Forward, RISE, and JA Fellowships, had my first appointment with Dr. Anne Caulley (she can complete the ETS form), picked up dry clean, called Samir, and worked six hours today
 //06.02.2026 Woke up at noon today (went to bed late last night to sign the lease and transfer money to mom), paid David today, started putting together my tax returns, catch up with Priscilla at Tastea, it wasn't too productive of a day
 //06.03.2026 Lazy day
+//06.04.2026 Went to bed yesterday at 11p and fell asleep at midnight, woke up at 6a and couldn't go back to bed until 9a, then slept until 12p, followed up with Bahareh, schedule a visit with the ENT, had dinner at Miyakko with mom and Angela, and submitted 2023, 2024, and 2025 federal tax returns (Form 1040s) to HBS Financial Aid today
