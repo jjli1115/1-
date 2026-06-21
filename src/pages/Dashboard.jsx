@@ -435,3 +435,4 @@ export default function Dashboard() {
 //06.17.2026 Submitted updated loan statements to HBS Financial Aid, Matt got the Verizon bill refunded, had a great three hour conversation with Kaushik at Academic Coffee by Valley Fair, emailed Hotelbeds.com to verify potential fraud from IBC, read updated instructions for Project Docs Conversion
 //06.18.2026 Booked the Ritz for dinner with Tyson on July 23rd, mailed gift box to JiuYeYe, attended Project Les Artistes office hours, cooked tofu dish for dinner
 //06.19.2026 Got my sutures removed then hung out with Alex at Valley Fair
+//06.20.2026 Didn't do much today, ordered Subway BOGO for lunch, picked up Poki Bowl for dinner, Luca arrived today
