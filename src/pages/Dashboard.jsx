@@ -436,3 +436,4 @@ export default function Dashboard() {
 //06.18.2026 Booked the Ritz for dinner with Tyson on July 23rd, mailed gift box to JiuYeYe, attended Project Les Artistes office hours, cooked tofu dish for dinner
 //06.19.2026 Got my sutures removed then hung out with Alex at Valley Fair
 //06.20.2026 Didn't do much today, ordered Subway BOGO for lunch, picked up Poki Bowl for dinner, Luca arrived today
+//06.21.2026 Went to church in Palo Alto today with the whole family (Mom, Matt, and Angela) and Luca, then got lunch at Dumpling Hours in Palo Alto, walked around Stanford after (oval, quad, bookstore, and engineering quad), then went home (got stuck in major traffic, took 20 minutes to get from Blossom Hill exit to Cottle exit), and ended the day with Father's Day dinner for Matt at Pacific's Edge in Carmel
