@@ -437,3 +437,4 @@ export default function Dashboard() {
 //06.19.2026 Got my sutures removed then hung out with Alex at Valley Fair
 //06.20.2026 Didn't do much today, ordered Subway BOGO for lunch, picked up Poki Bowl for dinner, Luca arrived today
 //06.21.2026 Went to church in Palo Alto today with the whole family (Mom, Matt, and Angela) and Luca, then got lunch at Dumpling Hours in Palo Alto, walked around Stanford after (oval, quad, bookstore, and engineering quad), then went home (got stuck in major traffic, took 20 minutes to get from Blossom Hill exit to Cottle exit), and ended the day with Father's Day dinner for Matt at Pacific's Edge in Carmel
+//06.22.2026 Called Apo for two minutes today (she ended the call by herself lol) and then called Aesthetx to inquire about dermatology appointment, ate dinner and watched the first episode of House of Dragon Season 3, ended the night by playing some Mecca Chameleon with Alex, Dave, Becca, Josh, Christie, Tony, and Drew
