@@ -442,3 +442,4 @@ export default function Dashboard() {
 //06.24.2026 Luca left today, I did some work, worked on my Global and Sequoia lists, responded to the Harvard Financial Aid office, and Beth and Sam arrived today
 //06.25.2026 Didn't do too much today, got dim sum for brunch with Angela, Beth, Sam, Mom, and Matt, then went to the Apple visitor center, got my Harvard financial aid today and received $86,600 per year (thank you God), watched part of the US vs Turkiye World Cup game (where we lost 2-3 in the last minute of the game), had dinner made by Angela and her friends, and went to bed; it was a good day
 //06.26.2026 Had ADHD follow up today, didn't do too much else, learned about the Spokanee tribe, and only got one third of my to do list completed
+//06.27.2026 Called Kush today (he no longer wants to progress forward with the company), worked with Matt to cancel his Fox membership, picked up Angela and her friends from Diridon Station after their day in SF
