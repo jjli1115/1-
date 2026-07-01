@@ -445,3 +445,4 @@ export default function Dashboard() {
 //06.27.2026 Called Kush today (he no longer wants to progress forward with the company), worked with Matt to cancel his Fox membership, picked up Angela and her friends from Diridon Station after their day in SF
 //06.28.2026 Called Sean today and will intro him to John Koelliker tomorrow, tried to call Grandma but the nurse said the iPad was out of power and never called, watched the new House of Dragon episode (S3E2), need to email Tim, Paul, and message Sahil, will be a long night
 //06.29.2026 Did five hours of Mercor work today (against a planned nine hours) and got dinner at Jang Su Jang with Angela, Beth, Sam, Mom, and Matt then took a nap when I got home
+//06.30.2026 Went and tried to get my sinus CT scan today but it was going to cost $1,478 out of pocket ($8,655 without insurance)
