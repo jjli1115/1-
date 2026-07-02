@@ -446,3 +446,4 @@ export default function Dashboard() {
 //06.28.2026 Called Sean today and will intro him to John Koelliker tomorrow, tried to call Grandma but the nurse said the iPad was out of power and never called, watched the new House of Dragon episode (S3E2), need to email Tim, Paul, and message Sahil, will be a long night
 //06.29.2026 Did five hours of Mercor work today (against a planned nine hours) and got dinner at Jang Su Jang with Angela, Beth, Sam, Mom, and Matt then took a nap when I got home
 //06.30.2026 Went and tried to get my sinus CT scan today but it was going to cost $1,478 out of pocket ($8,655 without insurance)
+//07.01.2026 July has come, June was a productive and well paced month, Dave S. invite me to his crib in Tahoe today, booked a neuropsych evaluation, scheduled a sinus CT scan at SimonMed, sent David his $1,000 for the month, and took out the trash bins
