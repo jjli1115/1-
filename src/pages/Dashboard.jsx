@@ -456,3 +456,4 @@ export default function Dashboard() {
 //07.08.2026 Woke up and took out the trash, then drove two hours to SF to catch up with Enya, then went to GSB MSx session at Bain in Salesforce Tower, had dinner at Sweetgreen (where I saw the first automated bowl maker) and went to bed
 //07.09.2026 Went to the gym, then went to Poki Bowl, then went to Lowe's to check footage, then went to Safeway for gas, then ate Poki Bowl at home and chat with mom from 6p to 11:30p
 //07.10.2026 Really sick today
+//07.11.2026 Slept 10 hours last night and feel much better, Angela came back from Menlo today, debated with Mom and Angela for five hours at dinner about the value of going to HBS
