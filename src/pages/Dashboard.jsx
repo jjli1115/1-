@@ -458,3 +458,4 @@ export default function Dashboard() {
 //07.10.2026 Really sick today
 //07.11.2026 Slept 10 hours last night and feel much better, Angela came back from Menlo today, debated with Mom and Angela for five hours at dinner about the value of going to HBS
 //07.12.2026 Slept four hours last night but made it up to go to church with Angela, then had lunch with Dad and Angela, followed by helping Angela unpack and lay her new rugs in her room in Menlo, then worked at Blue Bottle Coffee in Palo Alto and met Jay Kim who is a PhD in AI Diffusion at Harvard, dropped Angela back off at her apartment and went to dinner with Vittorio
+//07.13.2026 Got through emails and both phones, called Ashwin Kamlani, finished some work and had dinner with Mom
