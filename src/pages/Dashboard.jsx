@@ -460,3 +460,4 @@ export default function Dashboard() {
 //07.12.2026 Slept four hours last night but made it up to go to church with Angela, then had lunch with Dad and Angela, followed by helping Angela unpack and lay her new rugs in her room in Menlo, then worked at Blue Bottle Coffee in Palo Alto and met Jay Kim who is a PhD in AI Diffusion at Harvard, dropped Angela back off at her apartment and went to dinner with Vittorio
 //07.13.2026 Got through emails and both phones, called Ashwin Kamlani, finished some work and had dinner with Mom
 //07.14.2026 Did almost everything I wanted to get done today: watch the TBPN stream, get through my emails, work for five hours, and called to get car shipment quotes, ended the night with Alex's birthday dinner at Mumu Hot Pot and afters at Dave's
+//07.15.2026 Woke up and went to my Naturopathic follow up appointment, then went home and took out the trash, followed by a nap, then a run, and dinner with Mom at Miyakko
