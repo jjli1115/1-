@@ -462,3 +462,4 @@ export default function Dashboard() {
 //07.14.2026 Did almost everything I wanted to get done today: watch the TBPN stream, get through my emails, work for five hours, and called to get car shipment quotes, ended the night with Alex's birthday dinner at Mumu Hot Pot and afters at Dave's
 //07.15.2026 Woke up and went to my Naturopathic follow up appointment, then went home and took out the trash, followed by a nap, then a run, and dinner with Mom at Miyakko
 //07.16.2026 Stayed home today and had a nice reasonably slow day
+//07.17.2026 Woke up at 9a today, worked at home, then had dinner with Angela and Mom at Zatinya in Palo Alt, followed by Whole Foods shopping and then going home
