@@ -463,3 +463,4 @@ export default function Dashboard() {
 //07.15.2026 Woke up and went to my Naturopathic follow up appointment, then went home and took out the trash, followed by a nap, then a run, and dinner with Mom at Miyakko
 //07.16.2026 Stayed home today and had a nice reasonably slow day
 //07.17.2026 Woke up at 9a today, worked at home, then had dinner with Angela and Mom at Zatinya in Palo Alt, followed by Whole Foods shopping and then going home
+//07.18.2026 Woke up at 9a today, had breakfast then went for a jog, then had lunch followed by a nap, then went to Valley Fair to pick up blue light glasses with mom and got dinner at King's Fish House (it was suprisingly good), then picked up Matt at SJC and went home
