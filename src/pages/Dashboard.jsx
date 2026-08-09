@@ -484,3 +484,4 @@ export default function Dashboard() {
 //08.05.2026 Booked the Jeep shipment with Sherpa today, and confirmed the moving time slot with Brian, feels like I wasn't very productive, went for a jog and got pho at the nearby Vietnamese restaurant in the plaza, is human emotion and needing of motivational a weakness? Why do I have to be in certain environments to totally relax?
 //08.06.2026 Went to see Dr. David (Dave) Saito the ENT today and we saw that my septum is deviated on both sides and my turbinates are enlarged, then did work in Los Altos downtown, before getting dinner with Rishab and Andy at Zazil in Santana Row
 //08.07.2026 Inspiration at home is near zero
+//08.08.2026 Installed the Ring camera today, then signed up for Global Entry, went to visit Rishab at his house, and ended the day with Somu and Allen getting dinner at Zareen's and dessert at Makkee
