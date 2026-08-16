@@ -491,3 +491,4 @@ export default function Dashboard() {
 //08.12.2026 The day has come, flying to Boston today
 //08.13.2026 Second day in Boston, saw a hit and run, had a terrible lunch at a Chinese restaurant, moved into Soldiers Field Park, got food poisoning, and ran into issues shipping the Jeep
 //08.14.2026 Had breakfast at Spangler, then went to the Soldiers Field Park leasing office (where we met James), before going to the SFP and OWA parking garage and getting a tour from Assad, then Mom and I got out haircuts at SKA Hair Studio with Tammy Zhu (she is going to Flushing on Tuesday and Wednesday), followed by dinner at LiuYiShou Hot Pot, and then we ended the night with a walk to Beacon Hill before taking a Lyft back to Soldiers Field Park
+//08.15.2026 Got breakfast at Daily Provisions and got a grocery haul from Whole Foods
