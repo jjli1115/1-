@@ -510,3 +510,4 @@ export default function Dashboard() {
 //08.31.2026 Last day of August, went to discussion group this morning, then printed the Supreme logo and stuck it to my T-shirt before discussing Supreme in Marketing, then went home and took a nap, before heading to discuss On Running in Strategy, then I wired David for the loan and called Tai Tatum, and ended the night driving to walk around Beacon Hill and Piers Park for inspiration
 //09.01.2026 (:
 //09.02.2026 Had three cases today and discovered FRC is going to be hard, then met with Kev for our Ascend EC-RC group, before going to sign up for way too many clubs at Club Fair, then getting hibachi dinner with Brendan Goldstein and his friends from the Morocco trip
+//09.03.2026 Total exhausted now, had FRC and TOM today, picking up, had Masquerave at night
