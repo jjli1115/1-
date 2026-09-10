@@ -516,3 +516,4 @@ export default function Dashboard() {
 //09.06.2026 Got brunch with the gang at 1915 Lanzhou Hand Pulled Noodles, then drove back to Boston and dropped off Sam and Lisa on the way in Greenwich for Wes' birthday, left my suit in Sam's apartment by accident
 //09.07.2026 Labor day off today, worked on final GSB application touches (here we go)
 //09.08.2026 Had a great chat with Tyson today and he gave me many good phrases to draw from
+//09.09.2026 Submitted GSB today (55 minutes late at 4:55p PST / 7:55p EST) and it wasn't my best work, such a tough application to do well; well , maybe next time
