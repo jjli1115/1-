@@ -519,3 +519,4 @@ export default function Dashboard() {
 //09.09.2026 Submitted GSB today (55 minutes late at 4:55p PST / 7:55p EST) and it wasn't my best work, such a tough application to do well; well , maybe next time
 //09.10.2026 Saw Kush today and went to La Dolce Vita (The White Party)
 //09.11.2026 Hung out with Jorge (got dinner at Lanner Noodles&Bar), then met his MD/PhD friends in front of the restaurant, and met his MD friends before we went to Legacy
+//09.12.2026 Drove to AABA Retreat today
