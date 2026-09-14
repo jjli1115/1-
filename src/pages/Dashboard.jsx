@@ -520,3 +520,4 @@ export default function Dashboard() {
 //09.10.2026 Saw Kush today and went to La Dolce Vita (The White Party)
 //09.11.2026 Hung out with Jorge (got dinner at Lanner Noodles&Bar), then met his MD/PhD friends in front of the restaurant, and met his MD friends before we went to Legacy
 //09.12.2026 Drove to AABA Retreat today
+//09.13.2026 Drove back to SFP today
