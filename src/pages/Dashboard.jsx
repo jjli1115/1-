@@ -521,3 +521,4 @@ export default function Dashboard() {
 //09.11.2026 Hung out with Jorge (got dinner at Lanner Noodles&Bar), then met his MD/PhD friends in front of the restaurant, and met his MD friends before we went to Legacy
 //09.12.2026 Drove to AABA Retreat today
 //09.13.2026 Drove back to SFP today
+//09.14.2026 Didn't have class today, bought belt and Stetson hat for Rodeo tomorrow, got drinks with Kush and his friends, and went to DRF event at Felipe's
