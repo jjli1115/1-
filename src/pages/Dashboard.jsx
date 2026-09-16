@@ -522,3 +522,4 @@ export default function Dashboard() {
 //09.12.2026 Drove to AABA Retreat today
 //09.13.2026 Drove back to SFP today
 //09.14.2026 Didn't have class today, bought belt and Stetson hat for Rodeo tomorrow, got drinks with Kush and his friends, and went to DRF event at Felipe's
+//09.15.2026 Charles Wang (HBS Curriculum Chair) and Tsedal Neeley (Chair of the MBA Program) came to talk about why they got rid of FIELD during lunch, then had my writing session intro with Karen Propp, before meeting with Jo, followed by AABA Family pitch night, and then submitted both FIN1 quizzes and went to Midnight Rodeo
