@@ -524,3 +524,5 @@ export default function Dashboard() {
 //09.14.2026 Didn't have class today, bought belt and Stetson hat for Rodeo tomorrow, got drinks with Kush and his friends, and went to DRF event at Felipe's
 //09.15.2026 Charles Wang (HBS Curriculum Chair) and Tsedal Neeley (Chair of the MBA Program) came to talk about why they got rid of FIELD during lunch, then had my writing session intro with Karen Propp, before meeting with Jo, followed by AABA Family pitch night, and then submitted both FIN1 quizzes and went to Midnight Rodeo
 //09.16.2026 Went to Automation and Deep Tech Club Rolodex night today
+//09.17.2026 Went to the REEF maker space and had dinner with professor Chertavian today
+//09.18.2026 Finally made it to Friday, hung out with Kush and Daniel Volshytn, then worked out with Kush and Amay today before doordashing BOGO Subway for dinner
