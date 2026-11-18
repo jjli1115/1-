@@ -584,3 +584,4 @@ export default function Dashboard() {
 //11.14.2026 Woke up at noon (slept eight hours) and went to the ETA conference, then went for a jog, before calling Alex for fundraising, and ending the night at Kris & Kev's birthday party and Encore
 //11.15.2026 Had my birthday today, got lunch with Xinyi, and then took a nap, before going to dinner with Kush at Contessa
 //11.16.2026 Started with MKT (discussed the Japanese Game revenue increase case) and then had FIN1 (discussed the drug royalty case), before having Section I Rolodex Lunch, and then filled out IFC preferences (ranked Japan first after conversation with Mom), before going to fireside chat with Yung Gravy, and headed to Newbury to visit Peggy (and put in a request for a 40mm white gold fluted Landdweller), before going to DRF (heard Boston Square Labs pitch), got Chipotle after with the team, and went home to take a nap before waking up to take MKT Quantitative Exercise #3, and called Alex
+//11.17.2026 (:
