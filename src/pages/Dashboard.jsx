@@ -589,3 +589,4 @@ export default function Dashboard() {
 //11.19.2026 Started with FRC (discussed the Alibaba IPO and governance case) then had LEAD (discussed the Lisa Su case), before getting Holidazzle tickets (Krtin pulled through and got me one) and Brielle's MyTake, and then had TOM (discussed the rose producer in Kenya case), and then went to the fireside chat with Vicky Tsai followed by the Vetting Life Science Idea session, and ended the night with dinner in Seaport and The Venetian
 //11.20.2026 Ross is visiting!
 //11.21.2026 Harvard Yale Game (we lost)
+//11.22.2026 Had brunch @ Krasi with Angela's Oxford friends (Sabrina (LEK), Michael (HLS), Luca (Jane Street), and Alex (MS Data Science), then went to get froyo at BerryLine and waffles and Zinneken's, before going home to take a nap and waking up to facetime Mom and do cases
