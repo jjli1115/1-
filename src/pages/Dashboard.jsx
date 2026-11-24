@@ -590,3 +590,4 @@ export default function Dashboard() {
 //11.20.2026 Ross is visiting!
 //11.21.2026 Harvard Yale Game (we lost)
 //11.22.2026 Had brunch @ Krasi with Angela's Oxford friends (Sabrina (LEK), Michael (HLS), Luca (Jane Street), and Alex (MS Data Science), then went to get froyo at BerryLine and waffles and Zinneken's, before going home to take a nap and waking up to facetime Mom and do cases
+//11.23.2026 Started with MKT (had the Fortis steel straps case and Angela came to visit class) and FIN1 (discussed the Dicerna case on Bain Life Sciences investment), and then had Patrice's MyTake, before my writing session with Karen, and then went to office hours with Jo (he said not to worry about recruiting until spring), and then went to DRF meeting, before getting dinner with Angela, her mentor Sean, and his wife Kaitlyn, before ending the night getting Berryline with Jennifer and Xinyi, and submitting my LEAD Reflection Module 4
