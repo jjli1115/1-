@@ -594,3 +594,4 @@ export default function Dashboard() {
 //11.24.2026 Free at last!
 //11.25.2026 Slept until noon (accidentally fell asleep on the couch) and then relaxed at home until dinner (went to Sanbada with Angela and she treated me for my birthday), before going back home for an early bedtime
 //11.26.2026 It's Thanksgiving day, went for Dim Sum in Chinatown for lunch with Angela, before picking up mooncakes and going to Jana's home for Thanksgiving dinner, ended the night calling Dad, Mom, and Matt for Thanksgiving
+//11.27.2026 It's Mom's birthday today (I wished her a happy birthday via text), and then went to lunch with Angela at Lanner Noodles in Seaport, before dropping Angela off at the airport, and going to Ralph Lauren where I met Seth to get my tuxedo fitted, and then went and got my haircut at SKA Hair Studio, and ended the night getting dinner with Seth at Yume Ga Akukara in Seaport
